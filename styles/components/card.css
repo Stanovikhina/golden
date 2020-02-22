@@ -1,0 +1,79 @@
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
+.card {
+  border: none;
+}
+
+.card-image {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-text {
+  color: #737373;
+  font-size: 14px;
+}
+
+.card-img-top-services {
+  position: absolute;
+  top: 16px;
+  right: 125px;
+  width: 41px;
+  height: 34px;
+}
+
+.card-img {
+  border-radius: 50%;
+  border: 6px solid #f1f1f1;
+}
+.card-services {
+}
+
+.card-about {
+  position: relative;
+}
+
+.circle-card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  border-radius: 50%;
+  border: 6px solid #f1f1f1;
+  background-color: #fed136;
+  width: 180px;
+  height: 180px;
+  font-size: 18px;
+  color: white;
+  margin-top: -100px;
+  margin-bottom: -100px;
+}
+.card-body {
+  position: relative;
+  padding-top: 0;
+}
+
+.right {
+  text-align: right;
+}
+
+.left {
+  text-align: left;
+}
+.footer {
+  padding: 20px 0;
+}
+.footer-image {
+  width: 600px;
+}

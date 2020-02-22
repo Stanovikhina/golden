@@ -1,0 +1,60 @@
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
+.section {
+  position: relative;
+  padding: 100px 0;
+}
+
+.section-title {
+}
+
+.h2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-transform: uppercase;
+  font-size: 40px;
+}
+.section-subtitle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding-bottom: 75px;
+  color: #777777;
+  font-size: 16px;
+}
+.section-description {
+}
+
+.section-description {
+  width: 600px;
+  font-size: 16px;
+  color: #777777;
+  display: inline-block;
+  margin-right: 0 auto;
+  margin-left: 0 auto;
+}
+
+.section-envato {
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+
+.section-dark {
+  background-color: #222222 !important;
+}
+
+.h2-dark {
+  color: #ffffff;
+}
+
+.section-about {
+  margin-left: 355px;
+  padding: 100px 0;
+}
